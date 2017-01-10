@@ -1,0 +1,1 @@
+a:4:{i:0;s:2:"id";i:1;s:9:"type_name";s:3:"_pk";s:2:"id";s:5:"_type";a:2:{s:2:"id";s:19:"tinyint(3) unsigned";s:9:"type_name";s:11:"varchar(32)";}}
